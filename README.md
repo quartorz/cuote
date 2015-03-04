@@ -1,0 +1,2 @@
+# cuote
+quoteをPythonから使えるようにしたやつ
